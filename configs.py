@@ -35,9 +35,9 @@ This UserBot can forward messages from any Chat to any other Chat also you can k
 👨🏻‍💻 **Commands:**
 • `!start` - Check UserBot Alive or Not.
 • `!help` - Get this Message.
-• `!kang` - Start All Messages Kanger.
-• `!restart` - Restart Heroku App Dyno Workers.
-• `!stop` - Stop Kanger & Restart Service.
+• `!kang` - Start All Messages Kanger.( never use )
+• `!restart` - Restart Heroku App Dyno Workers.( never use )
+• `!stop` - Stop Kanger & Restart Service. ( never use )
 
-©️ **Developer:** @AbirHasan2005
-👥 **Support Group:** [【★ʟя★】](https://t.me/DevsZone)"""
+
+
