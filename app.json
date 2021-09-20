@@ -1,14 +1,14 @@
 {
-    "name": "This is Telegram Messages Forwarder Userbot by @AbirHasan2005",
-    "description": "This is Telegram Messages Forwarder Userbot in Pyrogram by @AbirHasan2005",
+    "name": "This is Telegram Messages Forwarder Userbot by @Shadow Ninja",
+    "description": "This is Telegram Messages Forwarder Userbot in Pyrogram by @Shadow Ninja",
     "keywords": [
         "telegram",
         "messages",
         "forwarder",
         "userbot"
     ],
-    "repository": "https://github.com/AbirHasan2005/Forward-Client",
-    "website": "https://telegram.dog/AbirHasan2005",
+    "repository": "https://github.com/shadowninja024/tg_forward-userbot",
+    "website": "https://shadowninja.in",
     "success_url": "https://t.me/Discovery_Updates",
     "env": {
         "API_ID": {
@@ -18,7 +18,7 @@
             "description": "Get this value from my.telegram.org or @TeleORG_Bot"
         },
         "STRING_SESSION": {
-            "description": "Get this from @StringSessionGen_Bot"
+            "description": "Get this from https://replit.com/@shadowninja024/TG-session-string"
         },
         "FORWARD_FROM_CHAT_ID": {
             "description": "Forward From Chat IDs. Separate with Space."
