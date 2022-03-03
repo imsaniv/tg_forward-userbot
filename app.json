@@ -7,7 +7,7 @@
         "forwarder",
         "userbot"
     ],
-    "repository": "https://github.com/shadowninja024/tg_forward-userbot",
+    "repository": "https://github.com/imsaniv/tg_forward-userbot",
     "website": "https://shadowninja.in",
     "success_url": "https://t.me/Discovery_Updates",
     "env": {
