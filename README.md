@@ -33,7 +33,7 @@ Use this at your own risk. I will not be responsible for any kind of issue while
 
 
 ### Deploy Now:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shadowninja024/tg_forward-userbot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/imsaniv/tg_forward-userbot)
 
 ### Host Locally:
 ```sh
